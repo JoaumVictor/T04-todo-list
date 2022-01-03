@@ -1,0 +1,22 @@
+header {
+font-size: 100px;
+}
+
+#funcionamento {
+    font-size: 30px;
+}
+
+#texto-tarefa {
+    width:700px;
+    height: 40px;
+}
+
+#divBot {
+    border: 3px solid purple;
+    height: 100px;
+    display: block;
+}
+
+li {
+    background-color: yellowgreen;
+}
