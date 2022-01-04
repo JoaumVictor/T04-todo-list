@@ -17,6 +17,6 @@ font-size: 100px;
     display: block;
 }
 
-li {
-    background-color: yellowgreen;
+.completed {
+    text-decoration: line-through;
 }
